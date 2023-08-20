@@ -17,12 +17,9 @@
     }
 
 @media (max-width: 575) {
-    body {
-        display: none;
-        background-color: #D0E3F5;
-        font-size: 15px;
-        font-family: 'Inter', sans-serif;
-        }   
+   .nav_bar {
+    display: none;
+   }
     }    
 @media (max-width: 500) {
     body {
