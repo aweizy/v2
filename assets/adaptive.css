@@ -16,11 +16,12 @@
         }   
     }
 
-@media (max-width: 575) {
-   .nav_bar {
-    display: none;
-   }
-    }    
+@media only screen and (max-width: 575px) {
+    .nav_bar {
+      display: none;
+  }
+}
+        
 @media (max-width: 500) {
     body {
         display: none;
